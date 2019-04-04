@@ -1,8 +1,10 @@
 ENTERPRISE ARCHITECTURE IN A DEVOPS TIME
 ========================================
 
-Presented by: David Ayers, Principal Architect at [Credera](http://www.credera.com)<br>
-[@iamagiantnerd](https://twitter.com/iamagiantnerd), david.ayers@credera.com
+Presented by: David Ayers<br>
+Innovative Technology Professional | Passionate Lifelong Learner | Giant Nerd <br>
+[Full Bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md)<br>
+[@iamagiantnerd](https://twitter.com/iamagiantnerd), iamagiantnerd@gmail.com
 
 This is a talk directed toward Enterprise Architects about how to deal with a world that has moved their cheese.
 
