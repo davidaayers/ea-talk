@@ -38,8 +38,11 @@ Together, we can carve out a new role for EA in a world where DevOps moved EA's 
 Links:
 ------
 
-The following links are referenced in the presentation:
+The following links are referenced in the presentation, or might be useful to explore to learn more about the topics that are covered:
 
+- Definitions of Enterprise Architecture:
+  * http://www.ittoday.info/Articles/What_Is_Enterprise_Architecture.htm
+  * https://enterprisersproject.com/article/2017/7/devops-requires-dumping-old-it-leadership-ideas
 - Original Blog Post about ADRs:
   * Michael Nygard: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
   * Picture of Michael taken from his public github profile: https://github.com/mtnygard
